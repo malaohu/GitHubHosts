@@ -1,0 +1,1 @@
+go build -o github_hosts.exe .\app.go
