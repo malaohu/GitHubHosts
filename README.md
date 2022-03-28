@@ -20,7 +20,6 @@ Linux 可直接运行 github_hosts
 # HOSTS
 
 ```bash
-# GitHub520 Host Start
 140.82.114.25                 alive.github.com
 140.82.114.25                 live.github.com
 185.199.108.154               github.githubassets.com
