@@ -14,5 +14,6 @@ go run .\doit.go
 ```
 
 Windows 可直接运行 github_hosts.exe
+Linux 可直接运行 github_hosts
 
 
