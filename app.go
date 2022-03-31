@@ -6,7 +6,8 @@ import (
 	"log"
 	"regexp"
 	"time"
-
+	"strings"
+	"os"
 	"github.com/levigross/grequests"
 )
 
@@ -70,7 +71,34 @@ func main() {
 	//保存文件
 	ioutil.WriteFile(`hosts.txt`, []byte(result), 0666)
 
+
+	content := read_tmp()
+	content = strings.Replace(content, "12345", result, 1)
+	write_file(content)
+
 }
+
+
+
+func read_tmp() string{
+	file, err := os.Open("README_TEMP.md")
+	if err != nil {
+		panic(err)
+	}	
+	defer file.Close()
+	content, err := ioutil.ReadAll(file)
+	return string(content)
+}
+
+
+func write_file(content string){
+	err := ioutil.WriteFile("README.md", []byte(content), 0644)
+	if err != nil {
+		panic(err)
+	}	
+
+}
+
 
 func get_ip(url string) string {
 	resp, err := grequests.Get("https://ipaddress.com/website/"+url, nil)
