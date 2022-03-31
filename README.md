@@ -20,6 +20,6 @@ Linux 可直接运行 github_hosts
 # HOSTS
 
 ```bash
-#######
+########
 
 ```
