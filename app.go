@@ -54,17 +54,13 @@ func main() {
 
 	for _, v := range url_list {
 		ip := get_ip(v)
-		if len(ip) < 12 {
-			result += fmt.Sprintf("%s\t\t\t\t%s\n", ip, v)
-		} else {
-			result += fmt.Sprintf("%s\t\t\t%s\n", ip, v)
-		}
+		result += fmt.Sprintf("%s\t\t\t%s\n", ip, v)
 
 		fmt.Printf("%s\t\t\t%s\n", ip, v)
 	}
 
-	result += fmt.Sprintf("# %s \n", time.Now().Format("2006-01-02 15:04:05"))
-	fmt.Printf("# %s \n", time.Now().Format("2006-01-02 15:04:05"))
+	result += fmt.Sprintf("# Last Update Time : %s \n", time.Now().Format("2006-01-02 15:04:05"))
+	fmt.Printf("# Last Update Time :  %s \n", time.Now().Format("2006-01-02 15:04:05"))
 
 	result += "####################"
 	fmt.Printf("####################")
