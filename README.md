@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 64.71.144.202			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-03-31 14:53:43 
+# Last Update Time : 2022-03-31 15:01:37 
 ####################
 
 ```
