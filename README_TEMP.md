@@ -22,5 +22,6 @@ Linux 可直接运行 github_hosts
 ```bash
 
 12345
-
+# Github: https://github.com/malaohu/GitHubHosts
+# Article: https://51.ruyo.net/17580.html
 ```
