@@ -33,9 +33,9 @@ Linux 可直接运行 github_hosts
 199.232.69.194			github.global.ssl.fastly.net
 140.82.113.3			gist.github.com
 185.199.108.153			github.io
-140.82.112.3			github.com
+140.82.114.3			github.com
 192.0.66.2			github.blog
-140.82.113.5			api.github.com
+140.82.114.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
@@ -47,15 +47,15 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
 140.82.113.9			codeload.github.com
-52.217.129.17			github-cloud.s3.amazonaws.com
-52.217.205.25			github-com.s3.amazonaws.com
-54.231.201.233			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.140.89			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.105.36			github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.201.81			github-cloud.s3.amazonaws.com
+54.231.141.9			github-com.s3.amazonaws.com
+52.217.99.156			github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.109.203			github-production-user-asset-6210df.s3.amazonaws.com
+52.217.65.188			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 64.71.144.202			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-04-04 21:01:38 
+# Last Update Time : 2022-04-05 00:01:33 
 ####################
 ```
