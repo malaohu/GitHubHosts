@@ -25,7 +25,7 @@
             <h2>本网页提供Github Hosts 轻松解决无法访问Github的囧境！</h2>
         </div>
         <div class="content">
-			<iframe src="https://shtml.gitee.io/githubhosts/hosts.md" frameborder="0" width="100%" height="620px"></iframe>
+            <iframe src="https://cdn.jsdelivr.net/gh/malaohu/GitHubHosts@main/hosts.txt" frameborder="0" width="100%" height="615px"></iframe>
         </div>
         <div class="footer">
             <div class="legal pure-g">
@@ -42,22 +42,6 @@
             </div>
         </div>
     </div>
-    <script>
-		var nid = ""
-		$(function(){
-			$.get("https://api.jike.info/get_netsarang_key",function(data){
-				nid = data;
-				$(".pure-button").each(function(i,a){a.href = a.href.replace("nid",data)})
-				doit();
-			})
-
-			
-		})
-
-		function doit(){
-			$("#download").attr("href", "https://cdn.netsarang.net/"+nid+"/"+$("#product").val()+"-"+$("#version").val())
-		}
-    </script>
 <script>
 var _hmt = _hmt || [];
 (function() {
