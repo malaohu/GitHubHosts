@@ -60,7 +60,7 @@ func main() {
 	}
 
 	result += fmt.Sprintf("# Last Update Time : %s \n", time.Now().Format("2006-01-02 15:04:05"))
-	result += "# Github: https://github.com/malaohu/GitHubHosts"
+	result += "# Github: https://github.com/malaohu/GitHubHosts \n"
 	result += "# Article: https://51.ruyo.net/17580.html"
 
 	fmt.Printf("# Last Update Time :  %s \n", time.Now().Format("2006-01-02 15:04:05"))
