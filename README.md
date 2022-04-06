@@ -21,7 +21,7 @@ Linux 可直接运行 github_hosts
 
 ```bash
 
-####################
+####################Github Start####################
 140.82.113.26			alive.github.com
 140.82.112.26			live.github.com
 185.199.108.154			github.githubassets.com
@@ -56,7 +56,9 @@ Linux 可直接运行 github_hosts
 64.71.144.211			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-04-06 10:22:27 
+# Last Update Time : 2022-04-06 10:25:06 
 # Github: https://github.com/malaohu/GitHubHosts 
-# Article: https://51.ruyo.net/17580.html####################
+# Article: https://51.ruyo.net/17580.html 
+####################Github End####################
+
 ```

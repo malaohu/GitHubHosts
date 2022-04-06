@@ -49,7 +49,7 @@ func main() {
 		"github.dev",
 		"media.githubusercontent.com"}
 
-	result := fmt.Sprintf("####################\n")
+	result := fmt.Sprintf("####################Github Start####################\n")
 	fmt.Printf("####################\n")
 
 	for _, v := range url_list {
@@ -61,11 +61,11 @@ func main() {
 
 	result += fmt.Sprintf("# Last Update Time : %s \n", time.Now().Format("2006-01-02 15:04:05"))
 	result += "# Github: https://github.com/malaohu/GitHubHosts \n"
-	result += "# Article: https://51.ruyo.net/17580.html"
+	result += "# Article: https://51.ruyo.net/17580.html \n"
 
 	fmt.Printf("# Last Update Time :  %s \n", time.Now().Format("2006-01-02 15:04:05"))
 
-	result += "####################"
+	result += "####################Github End####################\n"
 	fmt.Printf("####################")
 	//保存文件
 	ioutil.WriteFile(`hosts.txt`, []byte(result), 0666)
