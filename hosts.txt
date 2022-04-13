@@ -23,8 +23,8 @@
 185.199.108.133			avatars1.githubusercontent.com
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
-140.82.113.9			codeload.github.com
-52.216.88.11			github-cloud.s3.amazonaws.com
+140.82.112.10			codeload.github.com
+52.217.166.201			github-cloud.s3.amazonaws.com
 52.217.66.44			github-com.s3.amazonaws.com
 52.217.197.177			github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.86.108			github-production-user-asset-6210df.s3.amazonaws.com
@@ -33,7 +33,7 @@
 64.71.144.211			github.community
 52.151.41.89			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-04-13 18:01:33 
+# Last Update Time : 2022-04-13 21:01:34 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
