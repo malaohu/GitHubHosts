@@ -31,11 +31,11 @@ Linux 可直接运行 github_hosts
 185.199.108.133			camo.githubusercontent.com
 185.199.108.133			github.map.fastly.net
 199.232.69.194			github.global.ssl.fastly.net
-140.82.112.4			gist.github.com
+140.82.113.4			gist.github.com
 185.199.108.153			github.io
-140.82.113.4			github.com
+140.82.112.4			github.com
 192.0.66.2			github.blog
-140.82.113.5			api.github.com
+140.82.112.6			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 64.71.144.211			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-04-15 15:01:40 
+# Last Update Time : 2022-04-15 18:01:40 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
