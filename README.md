@@ -33,7 +33,7 @@ Linux 可直接运行 github_hosts
 199.232.69.194			github.global.ssl.fastly.net
 140.82.113.4			gist.github.com
 185.199.108.153			github.io
-140.82.114.4			github.com
+140.82.113.4			github.com
 192.0.66.2			github.blog
 140.82.112.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
@@ -47,7 +47,7 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
 140.82.112.10			codeload.github.com
-52.216.107.180			github-cloud.s3.amazonaws.com
+52.216.136.228			github-cloud.s3.amazonaws.com
 52.217.236.249			github-com.s3.amazonaws.com
 54.231.195.105			github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.203.121			github-production-user-asset-6210df.s3.amazonaws.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 64.71.144.211			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-04-29 00:01:33 
+# Last Update Time : 2022-04-29 03:01:35 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
