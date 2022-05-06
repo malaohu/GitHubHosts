@@ -22,7 +22,7 @@ Linux 可直接运行 github_hosts
 ```bash
 
 ####################Github Start####################
-140.82.114.25			alive.github.com
+140.82.113.26			alive.github.com
 140.82.114.25			live.github.com
 185.199.108.154			github.githubassets.com
 140.82.113.22			central.github.com
@@ -46,17 +46,17 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars1.githubusercontent.com
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
-140.82.113.9			codeload.github.com
+140.82.112.9			codeload.github.com
 52.217.100.44			github-cloud.s3.amazonaws.com
 52.217.80.116			github-com.s3.amazonaws.com
 52.217.195.241			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.100.228			github-production-user-asset-6210df.s3.amazonaws.com
+54.231.132.169			github-production-user-asset-6210df.s3.amazonaws.com
 52.217.1.44			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 64.71.144.211			github.community
 23.100.27.125			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-05-06 09:01:32 
+# Last Update Time : 2022-05-06 12:01:34 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
