@@ -112,6 +112,8 @@ func get_ip(url string) string {
 
 	ip := ""
 
+	fmt.Printf(len(result))
+	
 	for _, text := range result {
 		ip = text[1]
 		break
