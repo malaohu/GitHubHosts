@@ -17,6 +17,8 @@ Windows 可直接运行 github_hosts.exe
 
 Linux 可直接运行 github_hosts
 
+ipaddress 屏蔽了国内访问，找境外服务器运行脚本
+
 # HOSTS
 
 ```bash
