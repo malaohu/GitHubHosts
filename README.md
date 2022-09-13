@@ -22,20 +22,20 @@ Linux 可直接运行 github_hosts
 ```bash
 
 ####################Github Start####################
-140.82.114.26			alive.github.com
-140.82.112.26			live.github.com
+140.82.113.25			alive.github.com
+140.82.112.25			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.113.21			central.github.com
+140.82.114.22			central.github.com
 185.199.108.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
 185.199.108.133			camo.githubusercontent.com
 185.199.108.133			github.map.fastly.net
 151.101.1.194			github.global.ssl.fastly.net
-140.82.114.4			gist.github.com
+140.82.113.4			gist.github.com
 185.199.108.153			github.io
-140.82.114.3			github.com
+140.82.114.4			github.com
 192.0.66.2			github.blog
-140.82.113.6			api.github.com
+140.82.114.6			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
@@ -47,16 +47,16 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
 140.82.113.10			codeload.github.com
-54.231.138.33			github-cloud.s3.amazonaws.com
-52.217.13.28			github-com.s3.amazonaws.com
+54.231.161.129			github-cloud.s3.amazonaws.com
+52.216.29.132			github-com.s3.amazonaws.com
 52.217.85.84			github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.200.123			github-production-user-asset-6210df.s3.amazonaws.com
 54.231.130.1			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
-140.82.113.18			github.community
+140.82.114.18			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-09-12 09:31:19 
+# Last Update Time : 2022-09-13 09:31:22 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
