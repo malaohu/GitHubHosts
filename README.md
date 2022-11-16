@@ -23,19 +23,19 @@ Linux 可直接运行 github_hosts
 
 ####################Github Start####################
 140.82.112.26			alive.github.com
-140.82.113.25			live.github.com
+140.82.113.26			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.112.22			central.github.com
+140.82.114.22			central.github.com
 185.199.108.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
 185.199.108.133			camo.githubusercontent.com
 185.199.108.133			github.map.fastly.net
 151.101.1.194			github.global.ssl.fastly.net
-140.82.113.4			gist.github.com
+140.82.112.3			gist.github.com
 185.199.108.153			github.io
-140.82.112.3			github.com
+140.82.113.3			github.com
 192.0.66.2			github.blog
-140.82.112.6			api.github.com
+140.82.113.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
@@ -46,17 +46,17 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars1.githubusercontent.com
 185.199.108.133			avatars0.githubusercontent.com
 185.199.108.133			avatars.githubusercontent.com
-140.82.114.10			codeload.github.com
-52.217.225.89			github-cloud.s3.amazonaws.com
+140.82.112.10			codeload.github.com
+52.217.95.49			github-cloud.s3.amazonaws.com
 52.216.249.100			github-com.s3.amazonaws.com
-3.5.11.197			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.8.151			github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.40.92			github-production-user-asset-6210df.s3.amazonaws.com
-52.216.146.203			github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.140.201			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 140.82.112.18			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-11-15 09:31:43 
+# Last Update Time : 2022-11-16 09:31:41 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
