@@ -22,8 +22,8 @@ Linux 可直接运行 github_hosts
 ```bash
 
 ####################Github Start####################
-140.82.114.25			alive.github.com
-140.82.114.26			live.github.com
+140.82.112.25			alive.github.com
+140.82.112.25			live.github.com
 185.199.108.154			github.githubassets.com
 140.82.113.21			central.github.com
 185.199.108.133			desktop.githubusercontent.com
@@ -33,7 +33,7 @@ Linux 可直接运行 github_hosts
 151.101.1.194			github.global.ssl.fastly.net
 140.82.113.3			gist.github.com
 185.199.108.153			github.io
-140.82.114.3			github.com
+140.82.112.3			github.com
 192.0.66.2			github.blog
 140.82.113.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
@@ -49,14 +49,14 @@ Linux 可直接运行 github_hosts
 140.82.113.10			codeload.github.com
 3.5.16.111			github-cloud.s3.amazonaws.com
 52.216.24.36			github-com.s3.amazonaws.com
-3.5.1.132			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.17.197			github-production-user-asset-6210df.s3.amazonaws.com
+52.216.39.41			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.2.158			github-production-user-asset-6210df.s3.amazonaws.com
 3.5.0.211			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 140.82.112.18			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2022-11-30 09:31:21 
+# Last Update Time : 2022-12-01 09:31:19 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
