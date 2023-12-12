@@ -1,1 +1,1 @@
-go build -o github_hosts.exe .\app.go
+go build -o ./output/github_hosts .\app.go
