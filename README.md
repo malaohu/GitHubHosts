@@ -48,15 +48,15 @@ Linux 可直接运行 github_hosts
 185.199.108.133			avatars.githubusercontent.com
 140.82.114.10			codeload.github.com
 3.5.25.194			github-cloud.s3.amazonaws.com
-3.5.27.108			github-com.s3.amazonaws.com
+3.5.25.160			github-com.s3.amazonaws.com
 3.5.25.214			github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.25.53			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.7.170			github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.136			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 140.82.114.18			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-01-02 18:01:34 
+# Last Update Time : 2024-01-02 21:01:48 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
