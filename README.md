@@ -35,7 +35,7 @@ Linux 可直接运行 github_hosts
 185.199.108.153			github.io
 140.82.112.3			github.com
 192.0.66.2			github.blog
-140.82.112.5			api.github.com
+140.82.113.5			api.github.com
 185.199.108.133			raw.githubusercontent.com
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 140.82.114.17			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-03-28 18:01:48 
+# Last Update Time : 2024-03-28 21:01:52 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
