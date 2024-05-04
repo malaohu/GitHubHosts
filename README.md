@@ -23,7 +23,7 @@ Linux 可直接运行 github_hosts
 
 ####################Github Start####################
 140.82.112.25			alive.github.com
-140.82.112.26			live.github.com
+			live.github.com
 185.199.108.154			github.githubassets.com
 140.82.112.22			central.github.com
 185.199.108.133			desktop.githubusercontent.com
@@ -40,7 +40,7 @@ Linux 可直接运行 github_hosts
 185.199.108.133			user-images.githubusercontent.com
 185.199.108.133			favicons.githubusercontent.com
 185.199.108.133			avatars5.githubusercontent.com
-185.199.108.133			avatars4.githubusercontent.com
+			avatars4.githubusercontent.com
 185.199.108.133			avatars3.githubusercontent.com
 185.199.108.133			avatars2.githubusercontent.com
 185.199.108.133			avatars1.githubusercontent.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 140.82.112.17			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-05-05 00:01:44 
+# Last Update Time : 2024-05-05 03:02:50 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
