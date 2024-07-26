@@ -25,7 +25,7 @@ Linux 可直接运行 github_hosts
 140.82.112.26			alive.github.com
 140.82.114.25			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.112.22			central.github.com
+140.82.112.21			central.github.com
 185.199.108.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
 185.199.108.133			camo.githubusercontent.com
@@ -49,14 +49,14 @@ Linux 可直接运行 github_hosts
 140.82.112.10			codeload.github.com
 3.5.8.134			github-cloud.s3.amazonaws.com
 3.5.29.111			github-com.s3.amazonaws.com
-3.5.29.167			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.23.224			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.9.161			github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.8.185			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.13.41			github-production-user-asset-6210df.s3.amazonaws.com
+3.5.27.71			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
-140.82.112.18			github.community
+140.82.114.17			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-07-26 21:02:03 
+# Last Update Time : 2024-07-27 00:02:02 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
