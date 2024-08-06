@@ -32,7 +32,7 @@ Linux 可直接运行 github_hosts
 			github.map.fastly.net
 			github.global.ssl.fastly.net
 			gist.github.com
-185.199.108.153			github.io
+			github.io
 			github.com
 			github.blog
 			api.github.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 			github.community
 			github.dev
 			media.githubusercontent.com
-# Last Update Time : 2024-08-06 18:01:45 
+# Last Update Time : 2024-08-06 21:01:46 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
