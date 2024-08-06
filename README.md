@@ -22,41 +22,41 @@ Linux 可直接运行 github_hosts
 ```bash
 
 ####################Github Start####################
-140.82.112.26			alive.github.com
-140.82.112.25			live.github.com
-185.199.108.154			github.githubassets.com
-140.82.113.22			central.github.com
-185.199.108.133			desktop.githubusercontent.com
+			alive.github.com
+			live.github.com
+			github.githubassets.com
+			central.github.com
+			desktop.githubusercontent.com
 			assets-cdn.github.com
-185.199.108.133			camo.githubusercontent.com
-185.199.108.133			github.map.fastly.net
+			camo.githubusercontent.com
+			github.map.fastly.net
 			github.global.ssl.fastly.net
-140.82.113.3			gist.github.com
+			gist.github.com
 185.199.108.153			github.io
 			github.com
-192.0.66.2			github.blog
-140.82.112.6			api.github.com
+			github.blog
+			api.github.com
 			raw.githubusercontent.com
-185.199.108.133			user-images.githubusercontent.com
-185.199.108.133			favicons.githubusercontent.com
-185.199.108.133			avatars5.githubusercontent.com
-185.199.108.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.108.133			avatars2.githubusercontent.com
-185.199.108.133			avatars1.githubusercontent.com
-185.199.108.133			avatars0.githubusercontent.com
-185.199.108.133			avatars.githubusercontent.com
-140.82.112.10			codeload.github.com
-3.5.28.94			github-cloud.s3.amazonaws.com
-3.5.30.67			github-com.s3.amazonaws.com
+			user-images.githubusercontent.com
+			favicons.githubusercontent.com
+			avatars5.githubusercontent.com
+			avatars4.githubusercontent.com
+			avatars3.githubusercontent.com
+			avatars2.githubusercontent.com
+			avatars1.githubusercontent.com
+			avatars0.githubusercontent.com
+			avatars.githubusercontent.com
+			codeload.github.com
+			github-cloud.s3.amazonaws.com
+			github-com.s3.amazonaws.com
 			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.13.41			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.27.71			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.108.153			githubstatus.com
-140.82.114.18			github.community
+			github-production-user-asset-6210df.s3.amazonaws.com
+			github-production-repository-file-5c1aeb.s3.amazonaws.com
+			githubstatus.com
+			github.community
 			github.dev
-185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-08-06 15:01:47 
+			media.githubusercontent.com
+# Last Update Time : 2024-08-06 18:01:45 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
