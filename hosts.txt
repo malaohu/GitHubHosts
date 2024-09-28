@@ -33,7 +33,7 @@
 140.82.113.17			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-09-28 18:01:44 
+# Last Update Time : 2024-09-28 21:01:30 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
