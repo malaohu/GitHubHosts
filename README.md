@@ -53,10 +53,10 @@ Linux 可直接运行 github_hosts
 3.5.2.146			github-production-user-asset-6210df.s3.amazonaws.com
 3.5.27.166			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
-140.82.113.17			github.community
+140.82.112.17			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-10-03 06:01:51 
+# Last Update Time : 2024-10-03 09:02:03 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
