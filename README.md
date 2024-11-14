@@ -51,12 +51,12 @@ Linux 可直接运行 github_hosts
 3.5.29.79			github-com.s3.amazonaws.com
 3.5.8.181			github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.9.225			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.16.186			github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.22.145			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 140.82.113.18			github.community
 52.224.38.193			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2024-11-14 09:01:32 
+# Last Update Time : 2024-11-14 12:01:32 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
