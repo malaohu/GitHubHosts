@@ -25,7 +25,7 @@ Linux 可直接运行 github_hosts
 140.82.112.26			alive.github.com
 140.82.114.25			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.112.21			central.github.com
+140.82.114.22			central.github.com
 185.199.108.133			desktop.githubusercontent.com
 185.199.108.153			assets-cdn.github.com
 185.199.108.133			camo.githubusercontent.com
@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 140.82.113.17			github.community
 20.99.227.183			github.dev
 185.199.108.133			media.githubusercontent.com
-# Last Update Time : 2025-01-17 06:01:41 
+# Last Update Time : 2025-01-17 09:01:54 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
