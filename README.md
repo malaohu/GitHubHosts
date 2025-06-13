@@ -56,7 +56,7 @@ Linux 可直接运行 github_hosts
 			github.community
 			github.dev
 			media.githubusercontent.com
-# Last Update Time : 2025-06-13 21:01:39 
+# Last Update Time : 2025-06-14 00:01:38 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
