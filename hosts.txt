@@ -33,7 +33,7 @@
 			github.community
 			github.dev
 			media.githubusercontent.com
-# Last Update Time : 2025-11-13 21:01:39 
+# Last Update Time : 2025-11-14 00:01:57 
 # Github: https://github.com/malaohu/GitHubHosts 
 # Article: https://51.ruyo.net/17580.html 
 ####################Github End####################
